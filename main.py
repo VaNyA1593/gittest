@@ -14,11 +14,11 @@ for i in range(90):
 penup()
 goto(40,40)
 pendown()
-forward(10)
+forward(30)
 
 penup()
 goto(80,40)
 pendown()
-forward(10)
+forward(30)
 
 exitonclick()
